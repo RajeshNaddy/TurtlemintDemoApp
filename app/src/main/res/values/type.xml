@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.Turtlemint.Title1" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/opensans_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Turtlemint.Title2" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/opensans_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Turtlemint.Body" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="TextAppearance.Turtlemint.Caption1" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/opensans_semibold</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+    </style>
+
+    <style name="TextAppearance.Turtlemint.Caption2" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+</resources>

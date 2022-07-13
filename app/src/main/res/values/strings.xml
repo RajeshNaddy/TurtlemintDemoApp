@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TurtleMintAssignment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_issue_update">Last updated on %s</string>
+    <string name="transition_name_issue">transition_issue%d</string>
+    <string name="transition_name_issue_comment">transition_issue_comment</string>
+    <string name="label_no_comment">No comments</string>
+</resources>
